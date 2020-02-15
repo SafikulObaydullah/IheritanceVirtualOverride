@@ -1,0 +1,11 @@
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\bin\Debug\netcoreapp3.1\ShapeCircleSylynder.exe
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\bin\Debug\netcoreapp3.1\ShapeCircleSylynder.deps.json
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\bin\Debug\netcoreapp3.1\ShapeCircleSylynder.runtimeconfig.json
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\bin\Debug\netcoreapp3.1\ShapeCircleSylynder.runtimeconfig.dev.json
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\bin\Debug\netcoreapp3.1\ShapeCircleSylynder.dll
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\bin\Debug\netcoreapp3.1\ShapeCircleSylynder.pdb
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\obj\Debug\netcoreapp3.1\ShapeCircleSylynder.csprojAssemblyReference.cache
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\obj\Debug\netcoreapp3.1\ShapeCircleSylynder.AssemblyInfoInputs.cache
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\obj\Debug\netcoreapp3.1\ShapeCircleSylynder.AssemblyInfo.cs
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\obj\Debug\netcoreapp3.1\ShapeCircleSylynder.dll
+C:\Users\OBAYDULLAH-PC\source\repos\ShapeCircleSylynder\ShapeCircleSylynder\obj\Debug\netcoreapp3.1\ShapeCircleSylynder.pdb
